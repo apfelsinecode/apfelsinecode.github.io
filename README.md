@@ -1,3 +1,3 @@
 # apfelsinecode.github.io
 
-[Game & Flutter Web Version:](/game-and-flutter)
+[Game & Flutter Web Version](/game-and-flutter)
